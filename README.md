@@ -24,14 +24,12 @@ com a tutoria da aula do professor Sandro Giacomozz
 Nesse projeto so tive uma dificuldade de executar o deploy no Heroku
 
 
+## Autores
 
+- [@DevHawnk](https://github.com/DevHawnk)
 <div>
  
 <a href= "www.linkedin.com/in/wesley-souza-pereira-381756223/" target= "_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" target="_blank"></a>
  <a href= "" target= "_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" target="_blank"></a>
  </div>
-
-## Autores
-
-- [@DevHawnk](https://github.com/DevHawnk)
 
